@@ -49,5 +49,5 @@ python-dateutil==1.5
 pytz==2013.7
 scipy==1.1.0
 singledispatch==3.4.0.3
-six==1.4.1
+six==1.15.0
 tornado==5.0.2
