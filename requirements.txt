@@ -36,7 +36,7 @@ pyobjc-framework-QTKit==2.5.1
 pyobjc-framework-Quartz==2.5.1
 pyobjc-framework-ScreenSaver==2.5.1
 pyobjc-framework-ScriptingBridge==2.5.1
-pyobjc-framework-SearchKit==2.5.1
+pyobjc-framework-SearchKit==6.2.2
 pyobjc-framework-ServiceManagement==2.5.1
 pyobjc-framework-Social==2.5.1
 pyobjc-framework-SyncServices==2.5.1
