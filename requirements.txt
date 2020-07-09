@@ -16,7 +16,7 @@ pyobjc-framework-Automator==2.5.1
 pyobjc-framework-CFNetwork==2.5.1
 pyobjc-framework-Cocoa==2.5.1
 pyobjc-framework-Collaboration==2.5.1
-pyobjc-framework-CoreData==2.5.1
+pyobjc-framework-CoreData==6.2.2
 pyobjc-framework-CoreLocation==2.5.1
 pyobjc-framework-CoreText==2.5.1
 pyobjc-framework-DictionaryServices==2.5.1
