@@ -30,7 +30,7 @@ pyobjc-framework-LatentSemanticMapping==2.5.1
 pyobjc-framework-LaunchServices==2.5.1
 pyobjc-framework-Message==2.5.1
 pyobjc-framework-OpenDirectory==2.5.1
-pyobjc-framework-PreferencePanes==2.5.1
+pyobjc-framework-PreferencePanes==6.2.2
 pyobjc-framework-PubSub==2.5.1
 pyobjc-framework-QTKit==2.5.1
 pyobjc-framework-Quartz==2.5.1
